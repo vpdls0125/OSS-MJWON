@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("First OSS Code\n");
-  printf("Third OSS Code\n");
+  printf("HiHiHi~~~!!!");
+  printf("ㅋㅋㅋㅋㅋ");
   return 0;
 }
